@@ -44,6 +44,15 @@ After completing above steps we have conculded that the best **regularization pa
   <img width="800" height="500" src="https://user-images.githubusercontent.com/67468718/105616033-b9425680-5d88-11eb-9d46-3a1c56b79048.JPG">
 </p>
 
+## 4. Model Performance: 
+
+Tuned Logistic Regression Parameters: {'C': 1}
+Best score is 0.9168
+Basic Logistic Regression (Unregularized): 0.9172
+Logistic Regression Accuracy Score (Regularized): 0.9252
+
+![Accuracy](https://user-images.githubusercontent.com/67468718/105616257-8ef19880-5d8a-11eb-8960-8b69675b16b9.JPG)
+
   
 
 
