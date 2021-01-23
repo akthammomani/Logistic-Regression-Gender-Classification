@@ -24,4 +24,16 @@ Pairplot per Gender         |  Correlation
 
 ![scatter](https://user-images.githubusercontent.com/67468718/105615301-65ce0980-5d84-11eb-8369-bfc3c5ad0320.JPG)
 
+## 2. Tuning Logistic Regression:   
+
+The model has some hyperparameters we can tune for hopefully better performance. For tuning the parameters of your model, you will use a mix of **cross-validation** and **grid search**. In Logistic Regression, the most important parameter to tune is the **regularization parameter** $C$. Note that the regularization parameter is not always part of the logistic regression model. 
+
+**regularization parameter** $C$ is used to control for unlikely high regression coefficients, and in other cases can be used when data is sparse, as a method of feature selection.
+
+#### Let's use 2 methods to perform model tuning and selecting the regularization parameter $C$:
+  1. Writing our own loops to iterate over the model parameters
+  2. Using **GridSearchCV** to find the best model
+  
+  
+
 
