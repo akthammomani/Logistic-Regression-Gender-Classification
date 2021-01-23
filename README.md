@@ -38,10 +38,8 @@ The model has some hyperparameters we can tune for hopefully better performance.
 
 After completing above steps we have conculded that the best **regularization parameter** **C**: 1  correspondes to the max validation score: 0.9172
 
-![validation](https://user-images.githubusercontent.com/67468718/105616033-b9425680-5d88-11eb-9d46-3a1c56b79048.JPG)  
-
 <p align="center">
-  <img width="660" height="500" src="https://user-images.githubusercontent.com/67468718/105616033-b9425680-5d88-11eb-9d46-3a1c56b79048.JPG">
+  <img width="800" height="500" src="https://user-images.githubusercontent.com/67468718/105616033-b9425680-5d88-11eb-9d46-3a1c56b79048.JPG">
 </p>
 
   
