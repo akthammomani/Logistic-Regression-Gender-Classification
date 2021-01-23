@@ -23,6 +23,6 @@ Pairplot per Gender         |  Correlation
 ![Pairplot](https://user-images.githubusercontent.com/67468718/105615300-65ce0980-5d84-11eb-8915-1a500a2482ac.JPG) | ![corr](https://user-images.githubusercontent.com/67468718/105615299-65357300-5d84-11eb-9ede-eee198be9cb6.JPG)
 
 <p float="left">
-  <img src="https://user-images.githubusercontent.com/67468718/105615300-65ce0980-5d84-11eb-8915-1a500a2482ac.JPG" width="400" />
-  <img src="https://user-images.githubusercontent.com/67468718/105615299-65357300-5d84-11eb-9ede-eee198be9cb6.JPG" width="100" /> 
+  <img src="https://user-images.githubusercontent.com/67468718/105615300-65ce0980-5d84-11eb-8915-1a500a2482ac.JPG" width="750" />
+  <img src="https://user-images.githubusercontent.com/67468718/105615299-65357300-5d84-11eb-9ede-eee198be9cb6.JPG" width="350" /> 
 </p>
