@@ -53,5 +53,5 @@ After completing above steps we have conculded that the best **regularization pa
 ![Accuracy](https://user-images.githubusercontent.com/67468718/105616257-8ef19880-5d8a-11eb-8960-8b69675b16b9.JPG)
 
   
-
+As you can see above, our Model predicted the Gender accurately!!!
 
