@@ -13,3 +13,12 @@ The data set contains three columns
   * Height in inches
   * Weight in pounds
   * Gender (Male/Female) of the person
+  
+## 2. Visualization & Feature Engineering:   
+
+Let's explore the correlations and see which features separate the Male\Femals populations:
+
+Solarized dark             |  Solarized Ocean
+:-------------------------:|:-------------------------:
+![Pairplot](https://user-images.githubusercontent.com/67468718/105615300-65ce0980-5d84-11eb-8915-1a500a2482ac.JPG) | ![corr](https://user-images.githubusercontent.com/67468718/105615299-65357300-5d84-11eb-9ede-eee198be9cb6.JPG)
+
