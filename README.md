@@ -22,4 +22,6 @@ Pairplot per Gender         |  Correlation
 :-------------------------:|:-------------------------:
 ![Pairplot](https://user-images.githubusercontent.com/67468718/105615300-65ce0980-5d84-11eb-8915-1a500a2482ac.JPG) | ![corr](https://user-images.githubusercontent.com/67468718/105615299-65357300-5d84-11eb-9ede-eee198be9cb6.JPG)
 
+![scatter](https://user-images.githubusercontent.com/67468718/105615301-65ce0980-5d84-11eb-8369-bfc3c5ad0320.JPG)
+
 
