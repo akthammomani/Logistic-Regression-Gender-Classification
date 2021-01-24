@@ -26,7 +26,7 @@ Pairplot per Gender         |  Correlation
   <img width="800" height="500" src="https://user-images.githubusercontent.com/67468718/105615301-65ce0980-5d84-11eb-8369-bfc3c5ad0320.JPG">
 </p>
 
-## 2. Tuning Logistic Regression (hyperparameter Tuning): 
+## 3. Tuning Logistic Regression (hyperparameter Tuning): 
 
 The model has some hyperparameters we can tune for hopefully better performance. For tuning the parameters of our model, we will use a mix of **cross-validation** and **grid search**. In Logistic Regression, the most important parameter to tune is the **regularization parameter** **C**. Note that the regularization parameter is not always part of the logistic regression model. 
 
@@ -36,7 +36,7 @@ The model has some hyperparameters we can tune for hopefully better performance.
   1. Writing our own loops to iterate over the model parameters
   2. Using **GridSearchCV** to find the best model
   
-## 3. Training vs Validation:
+## 4. Training vs Validation:
 
 After completing above steps we have conculded that the best **regularization parameter** **C**: 1  correspondes to the max validation score: 0.9172
 
@@ -44,7 +44,7 @@ After completing above steps we have conculded that the best **regularization pa
   <img width="800" height="500" src="https://user-images.githubusercontent.com/67468718/105616033-b9425680-5d88-11eb-9d46-3a1c56b79048.JPG">
 </p>
 
-## 4. Model Performance: 
+## 5. Model Performance: 
 
   1. Basic Logistic Regression (Unregularized): 0.9172
   2. Tuned Logistic Regression Parameters: {'C': 1}Best score is 0.9168
