@@ -33,8 +33,8 @@ The model has some hyperparameters we can tune for hopefully better performance.
 **regularization parameter** **C** is used to control for unlikely high regression coefficients, and in other cases can be used when data is sparse, as a method of feature selection.
 
 #### Let's use 2 methods to perform model tuning and selecting the regularization parameter **C**:
-  1. Writing our own loops to iterate over the model parameters
-  2. Using **GridSearchCV** to find the best model
+  * Writing our own loops to iterate over the model parameters
+  * Using **GridSearchCV** to find the best model
   
 ## 4. Training vs Validation:
 
@@ -46,9 +46,9 @@ After completing above steps we have conculded that the best **regularization pa
 
 ## 5. Model Performance: 
 
-  1. Basic Logistic Regression (Unregularized): 0.9172
-  2. Tuned Logistic Regression Parameters: {'C': 1}Best score is 0.9168
-  3. Logistic Regression Accuracy Score (Regularized): 0.9252
+  * Basic Logistic Regression (Unregularized): 0.9172
+  * Tuned Logistic Regression Parameters: {'C': 1}Best score is 0.9168
+  * Logistic Regression Accuracy Score (Regularized): 0.9252
 
 ![Accuracy](https://user-images.githubusercontent.com/67468718/105616257-8ef19880-5d8a-11eb-8960-8b69675b16b9.JPG)
 
